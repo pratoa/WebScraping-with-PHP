@@ -26,7 +26,7 @@ $open2017 = [];
 echo "LOCATIONS OPEN: ", "\n\n";
 
 //for evey location, a variable loc represents it inside the for
-//in other words, locaiton[i] = loc
+//in other words, loc = location[i]
 foreach ($location as $loc){
     
     //get the city with the function getElementByTagName
